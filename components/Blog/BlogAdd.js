@@ -63,7 +63,7 @@ const BlogAdd = (props) => {
       </div>
 
       <div className="actions">
-        <button className="button">Add BlogItem</button>
+        <button className="button">Add</button>
       </div>
     </form>
   );
